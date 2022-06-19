@@ -24,6 +24,6 @@ Game companies are in a race to the bottom-I'd like to flip this on it's head, a
 
 ## State of Hexops today
 
-Most of my time goes to [Mach engine](/mach), laying the groundwork for future games I want to publish. Development of Mach engine is pretty much full-time for me, with ad-hoc part-time contributions from others. I still hold a full-time position at [Sourcegraph](https://sourcegraph.com) so I'm working double-time, 24/7.
+Most of my time goes to [Mach engine](https://machengine.org), laying the groundwork for future games I want to publish. Development of Mach engine is pretty much full-time for me, with ad-hoc part-time contributions from others. I still hold a full-time position at [Sourcegraph](https://sourcegraph.com) so I'm working double-time, 24/7.
 
 In the coming years, I anticipate shifting 100% of my time to Hexops and embarking on that self-funded 10-year journey to make some decent games. We're not there yet, though.
