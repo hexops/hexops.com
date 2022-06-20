@@ -4,7 +4,7 @@ draft: false
 rss_ignore: true
 ---
 
-<img height="150rem" style="float:right;" class="color-inverted" src="/img/no-spying.svg"></img>
+<img height="150rem" style="float:right;" class="color-auto" src="/img/no-spying.svg"></img>
 Analytics should always be minimal, 100% anonymous, aggregated, and open to the public - otherwise it’s spying.
 <br><br>
 <strong>We believe in <em>your right</em> to anonymity and privacy.</strong> We believe in creating games worth paying for, not exploiting you for money.
