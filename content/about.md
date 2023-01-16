@@ -16,7 +16,7 @@ Despite spending ~4 years writing my own game engine full-time back in 2015, whe
 
 Since then, I've learned so much, seen so much, and solidified my view that the gamedev industry is fundamentally broken: companies like EA games* edge towards literally getting children addicted to gambling, those like Telltale Games* violate federal labor laws, those like Blizzard* have rampant and systemic sexual harrassment in their DNA, and the entire industry creeps more and more towards a house-always-wins casino gambling ring of profit-driven motives than actual care for players. 
 
-I'm regularly dumbfounded by how slow and bearacratic these companies are. By how players _want_ them to listen to them and bring the game in a better direction, all while being ignored or getting an empty promise from a PR team. Quality of games are sufferring.
+I'm regularly dumbfounded by how slow and bureaucratic these companies are. By how players _want_ them to listen to them and bring the game in a better direction, all while being ignored or getting an empty promise from a PR team. Quality of games are sufferring.
 
 Game companies are in a race to the bottom-I'd like to flip this on it's head, and release games you _want_ to pay for.
 
